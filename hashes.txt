@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de romance
+
+This log tracks the cryptographic history and versioning for the song **Noche de romance** (noche-de-romance).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T03:16:39.626185 | `v1` | `50e2c488e64e230357d0fdcbbe7fcc3e83e22bf4890a1c81a95b9e4de3893f6d` | `a922639e6e8387d55cad06e084fdedb64dd7ba13751bf40748266003e1ef526d` | `2026-06-17_noche-de-romance-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
